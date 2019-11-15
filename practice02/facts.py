@@ -9,6 +9,7 @@ people = [
            facts=['True', 'False', 'True']),
 ]
 
+
 answers = {}
 
 
